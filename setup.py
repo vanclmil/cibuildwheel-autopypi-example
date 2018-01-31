@@ -5,3 +5,6 @@ setup(
     ext_modules=[Extension('dtw', sources=['dtw.c'])],
     version="0.1.14",
 )
+
+
+#pls work
